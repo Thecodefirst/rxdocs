@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https:///abc/sitemap.xml
+Sitemap: https:///abc/rxdocs/sitemap.xml
